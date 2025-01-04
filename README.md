@@ -1,0 +1,3 @@
+- Portfolio Project
+- Building a Tic-Tac-Toe game for either Single or Multiplayer use
+- Uses AI in a singlepalyer game to play against the player. 
